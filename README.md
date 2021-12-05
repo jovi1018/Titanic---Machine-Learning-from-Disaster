@@ -12,4 +12,4 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 My proposed models are Random Forest classifer, AdaBoost Classifier, Gradient Boost Classifier, and XGBoost Classifer. 
 
-The Best model is AdaBoost classifer with above 80% Accuracy.
+The Best model is AdaBoost classifer. After hyperparameters tuning, it achieves above 80% Accuracy.
